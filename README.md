@@ -2,7 +2,9 @@
 Flutter project to code amazing App UIs in flutter
 
 ##1. Onboarding Screen UI
-![screenshot](https://github.com/Arya0Patil/Flutter-UI-challenge/blob/main/lib/Screenshots/ObBoard101.jpg)![screenshot](https://github.com/Arya0Patil/Flutter-UI-challenge/blob/main/lib/Screenshots/ObBoard102.jpg)![screenshot](https://github.com/Arya0Patil/Flutter-UI-challenge/blob/main/lib/Screenshots/ObBoard103.jpg)
+![screenshot](https://github.com/Arya0Patil/Flutter-UI-challenge/blob/main/lib/Screenshots/ObBoard101.jpg)
+![screenshot](https://github.com/Arya0Patil/Flutter-UI-challenge/blob/main/lib/Screenshots/ObBoard102.jpg)
+![screenshot](https://github.com/Arya0Patil/Flutter-UI-challenge/blob/main/lib/Screenshots/ObBoard103.jpg)
 
 ## Getting Started
 
